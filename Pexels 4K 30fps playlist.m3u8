@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:3.033333,
+pexels-4k-30fps-video0.ts
+#EXTINF:3.033333,
+pexels-4k-30fps-video1.ts
+#EXTINF:3.033333,
+pexels-4k-30fps-video2.ts
+#EXTINF:3.033333,
+pexels-4k-30fps-video3.ts
+#EXTINF:3.033333,
+pexels-4k-30fps-video4.ts
+#EXTINF:0.166667,
+pexels-4k-30fps-video5.ts
+#EXT-X-ENDLIST
