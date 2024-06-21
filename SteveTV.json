@@ -1,4 +1,4 @@
-{"sites":[	
+[	
 		{"name": "🟡海外看","type": 1, "api": "https://haiwaikan.com/api.php/provide/vod/"},
 		{"name":"🟡360资源","type":1,"api":"https://360zy.com/api.php/provide/vod/"},
 		{"name":"🟡黑木耳","type":1,"api":"https://www.heimuer.tv/api.php/provide/vod"},
@@ -38,4 +38,4 @@
 		{"name":"🔴火狐资源","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/"},
 		{"name":"🔴新浪资源","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/"},
 		{"name":"🔴快云资源","type":1,"api": "https://www.kuaiyunzy.com/api.php/provide/vod/"}
-		]}
+		]
